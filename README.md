@@ -1,24 +1,19 @@
-# README
+#  simple blog app with crud operation
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* Ruby version 2.7
 
-Things you may want to cover:
+* Rails 7.0
 
-* Ruby version
+* Bulma 0.9.4
 
-* System dependencies
+* Simple_form 5.1
 
-* Configuration
+* Database sqlite3
 
-* Database creation
+* Guard 2.18
 
-* Database initialization
+* Guard-livereload 2.5.2
 
-* How to run the test suite
+* 
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
-
-* ...
